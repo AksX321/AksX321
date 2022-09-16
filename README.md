@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AksX321
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning javascript, css, html
+- 📫 How to reach me --> github
